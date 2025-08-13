@@ -38,6 +38,7 @@ cp .env.example .env
 npm start
 ```
 
+
 ## ⚙️ Configuration
 
 Create a `.env` file with the following variables:
